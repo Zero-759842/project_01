@@ -30,7 +30,7 @@ a {
   line-height: 60px;
   text-align: center;
   font-size: 12px;
-  user-select: none;
+  user-select: none;   /* 禁止内容选中 */
 }
 
 .layui-side-scroll .userinfo {
