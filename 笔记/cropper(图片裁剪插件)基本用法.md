@@ -1,4 +1,4 @@
-## 1. 基本使用步骤
+## 1. 基本使用步骤(图片裁剪插件)
 
 1. 在 `<head>` 中导入 `cropper.css` 样式表：
 
@@ -6,7 +6,7 @@
    <link rel="stylesheet" href="/assets/lib/cropper/cropper.css" />
    ```
 
-2. 在 `<body>` 的结束标签之前，按顺序导入如下的 js 脚本：
+2. 在 `<body>` 的结束标签之前，按顺序导入如下的 js 脚本（三个文件先后顺序不能变）：
 
    ```html
    <script src="/assets/lib/jquery.js"></script>
